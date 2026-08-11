@@ -95,7 +95,7 @@ Se este projeto despertou sua curiosidade, você pode me encontrar por aqui:
 </p>
 
 <p align="center">
-  <i>**Desenvolvido por Sara Lopes**</i>
+  <i>Desenvolvido por Sara Lopes</i>
 </p>
 
 
